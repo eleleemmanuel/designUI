@@ -1,0 +1,181 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    background-color: navy;
+    color: aqua;
+}
+
+
+.image {
+    max-width: 50%;
+    margin-left: 10%;
+    background-color: aquamarine;
+}
+
+.text {
+    max-width: 50%;
+    padding: 20px;
+    margin-left: 20%;
+}
+
+.button{
+  background-color: navy;
+  color: white;
+  border: 2px solid white;
+  height: 50px;
+  width: 50%;
+}
+
+
+.upper{
+    color: aqua;
+    padding-left: 200px;
+}
+
+.loreem{
+    color: white;
+}
+
+.lora{
+    color: white;
+}
+
+.meeting{
+
+   height: -150rem;
+   width:  -10rem;
+   margin-left: 70%;
+   margin-top: -10%;
+   background-color: navy;
+   
+}
+
+.below{
+  background-color: beige;
+  height: 5%;
+  width: 100%;
+  /* /* grid-template-columns: 1fr 1fr 1fr ; * */
+  display: flex;
+  justify-content: space-around;
+  margin: 5%;
+  align-content: center;
+  padding-right: 10%;
+
+}
+
+.first{
+    background-color: whitesmoke;
+    height: 100px;
+    width: 100%;
+    display: flex;
+   justify-content: space-evenly;
+    
+}
+
+
+/* .firstthree{
+text-align: end;
+
+}
+
+.frsttwo{
+    text-align: center;
+}
+
+.firstone{
+    
+} */
+
+
+.weare{
+    background-color:navy;
+    color: white;
+   text-align: center;
+   height: 100%;
+}
+
+.second{
+
+     background-color: navy;
+    height: 250px;
+    width: 100%;
+    display: flex;
+   justify-content: space-evenly;
+}
+
+
+.secondone , .secondtwo , .secondthree {
+ 
+     display: flex;
+     align-content: flex-start;
+     flex-direction: column;
+     margin: 10px;
+     background-color: white;
+     text-align: center;
+
+}
+.but{
+      color: white;
+      background-color: black;
+      width: 50%;
+      height: 10%;
+      background-position: 20%;
+      margin-top: 20%;
+      margin-left: 20%;
+
+}
+
+.third{
+    background-color: whitesmoke;
+    height: 200px;
+    width: 100%;
+    display: flex;
+   justify-content: space-evenly;
+  
+}
+
+.forth{
+    background-color: white;
+    height: 150px;
+    width: 100%;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.fifth{
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    
+   
+}
+
+.aha{
+    color: blue;
+    text-align: center;
+}
+
+.dev{
+    text-align: center;
+}
+
+.github{
+    margin-top: 3%;
+}
+
+.end{
+    
+   color: white;
+    margin: 10px;
+    
+
+}
